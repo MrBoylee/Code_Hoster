@@ -1,11 +1,11 @@
-.menu {
+.menu10 {
   display: flex;
   justify-content: center;
   gap: 10px;
   margin-bottom: 30px;
 }
 
-.menu button {
+.menu10 button {
   padding: 10px 20px;
   background-color: #fff;
   border: 2px solid #dcdcdc;
@@ -15,7 +15,7 @@
   transition: 0.3s ease;
 }
 
-.menu button:hover {
+.menu10 button:hover {
   background-color: #e8e8e8;
 }
 
