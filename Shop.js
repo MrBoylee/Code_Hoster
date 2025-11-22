@@ -1,6 +1,6 @@
   const items = [
     {
-      type: 'free',
+      type: 'gear',
       title: 'West Background Music Pack Vol. 1',
       price: '$0.0',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Emberidge_Barhouse.jpg',
@@ -9,7 +9,7 @@
       link: 'https://your-download-link.com/free-music-pack'
     },
     {
-      type: 'paid',
+      type: 'style',
       title: 'West Arsenal Mega Bundle (Sounds + BGs + Images)',
       price: '$14.99',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Thorncreek_Feather_Night.jpg',
