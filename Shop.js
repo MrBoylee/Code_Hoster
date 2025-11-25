@@ -1,7 +1,7 @@
   const items = [
     {
       type: 'gear',
-      title: 'West Background Music Pack Vol. 1',
+      title: 'Western Cowboy Men'S Suit Costume Set',
       price: '$0.0',
       image: 'https://img.kwcdn.com/product/fancy/73727990-b439-406e-9fad-9f36d039da8a.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
       button: 'Buy',
