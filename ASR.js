@@ -15,7 +15,7 @@
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Thorncreek_Feather_Night.jpg',
       button: 'Buy',
       class: 'btn-buy',
-      link: 'https://your-payment-link.com/buy-mega-bundle'
+      link: 'https://temu.to/k/e8swifcla40'
     }
     // Add more items with their links here
   ];
