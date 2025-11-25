@@ -4,7 +4,7 @@
       title: 'West Background Music Pack Vol. 1',
       price: '$0.0',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Emberidge_Barhouse.jpg',
-      button: 'Get for Free',
+      button: 'Buy',
       class: 'btn-buy',
       link: 'https://your-download-link.com/free-music-pack'
     },
