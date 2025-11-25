@@ -3,10 +3,10 @@
       type: 'gear',
       title: 'West Background Music Pack Vol. 1',
       price: '$0.0',
-      image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Emberidge_Barhouse.jpg',
+      image: 'https://img.kwcdn.com/product/fancy/73727990-b439-406e-9fad-9f36d039da8a.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
       button: 'Buy',
       class: 'btn-buy',
-      link: 'https://your-download-link.com/free-music-pack'
+      link: 'https://temu.to/k/ekfo9w2zbdu'
     },
     {
       type: 'style',
