@@ -19,9 +19,9 @@
     },
     {
       type: 'gear',
-      title: '1pc Unisex Beige Cowboy Hat',
+      title: 'Polyester 120g Photography For Live Video Sketch Background Cloth',
       price: '$4.77',
-      image: 'https://img.kwcdn.com/product/fancy/bbf039ed-f89d-4466-b995-d79cbeabefed.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
+      image: 'https://img.kwcdn.com/product/fancy/670ce401-5c32-4188-a930-5e91b474ea14.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
       button: 'Buy',
       class: 'btn-buy',
       link: 'https://temu.to/k/ekr9sv006ng'
