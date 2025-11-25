@@ -1,6 +1,6 @@
   const items = [
     {
-      type: 'gear',
+      type: 'style',
       title: 'Western Cowboy Costume Set for Men',
       price: '$14.27',
       image: 'https://img.kwcdn.com/product/fancy/73727990-b439-406e-9fad-9f36d039da8a.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
@@ -10,6 +10,15 @@
     },
     {
       type: 'style',
+      title: '1pc Unisex Beige Cowboy Hat',
+      price: '$4.77',
+      image: 'https://img.kwcdn.com/product/fancy/bbf039ed-f89d-4466-b995-d79cbeabefed.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
+      button: 'Buy',
+      class: 'btn-buy',
+      link: 'https://temu.to/k/ekr9sv006ng'
+    },
+    {
+      type: 'gear',
       title: '1pc Unisex Beige Cowboy Hat',
       price: '$4.77',
       image: 'https://img.kwcdn.com/product/fancy/bbf039ed-f89d-4466-b995-d79cbeabefed.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
