@@ -2,7 +2,7 @@
     {
       type: 'gear',
       title: 'Western Cowboy Costume Set for Men',
-      price: '$0.0',
+      price: '$14.27',
       image: 'https://img.kwcdn.com/product/fancy/73727990-b439-406e-9fad-9f36d039da8a.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
       button: 'Buy',
       class: 'btn-buy',
@@ -10,12 +10,12 @@
     },
     {
       type: 'style',
-      title: 'West Arsenal Mega Bundle (Sounds + BGs + Images)',
-      price: '$14.99',
-      image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Thorncreek_Feather_Night.jpg',
+      title: '1pc Unisex Beige Cowboy Hat',
+      price: '$4.77',
+      image: 'https://img.kwcdn.com/product/fancy/bbf039ed-f89d-4466-b995-d79cbeabefed.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
       button: 'Buy',
       class: 'btn-buy',
-      link: 'https://your-payment-link.com/buy-mega-bundle'
+      link: 'https://temu.to/k/ekr9sv006ng'
     }
     // Add more items with their links here
   ];
