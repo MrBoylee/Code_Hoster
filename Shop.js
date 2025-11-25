@@ -20,7 +20,7 @@
     {
       type: 'gear',
       title: 'Polyester 120g Photography For Live Video Sketch Background Cloth',
-      price: '$4.77',
+      price: '$10.74',
       image: 'https://img.kwcdn.com/product/fancy/670ce401-5c32-4188-a930-5e91b474ea14.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
       button: 'Buy',
       class: 'btn-buy',
