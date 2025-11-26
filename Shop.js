@@ -35,11 +35,6 @@
   const itemsPerPage = 13;
   let currentFilter = 'all';
 
-// Highlight default active category on page load
-window.addEventListener('DOMContentLoaded', () => {
-  const defaultBtn = document.querySelector('[data-filter="all"]');
-  if (defaultBtn) defaultBtn.classList.add('active-category');
-});
 
   function displayItems(page = 1) {
     storeGrid.innerHTML = '';
