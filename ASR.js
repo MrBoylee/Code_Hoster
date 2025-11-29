@@ -12,7 +12,7 @@
       type: 'style',
       title: 'West Arsenal Mega Bundle (Sounds + BGs + Images)',
       price: '$14.99',
-      image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Thorncreek_Feather_Night.jpg',
+      image: 'https://mrboylee.github.io/Mrboylee-Website-Images/200+_Western_Background_Images.jpg',
       button: 'Buy',
       class: 'btn-buy',
       link: 'https://temu.to/k/e8swifcla40'
