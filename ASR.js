@@ -10,7 +10,7 @@
     },
     {
       type: 'style',
-      title: 'West Arsenal Mega Bundle (Sounds + BGs + Images)',
+      title: '200+ Western Background Images ',
       price: '$14.99',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/200+_Western_Background_Images.jpg',
       button: 'Buy',
