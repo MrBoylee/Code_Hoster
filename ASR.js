@@ -1,21 +1,21 @@
-  const items = [
+call  const items = [
     {
       type: 'gear',
       title: 'Capcut + AI Green Screen Mastery Course COW 1.0',
-      price: '$0.0',
+      price: '$7.99',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Capcut_Ai_Green_Screen_Mastery.jpg',
-      button: 'Get for Free',
-      class: 'btn-free',
+      button: 'Buy',
+      class: 'btn-buy',
       link: 'https://boyleedalton.gumroad.com/l/wxzmmf'
     },
     {
       type: 'style',
       title: '200+ Western Background Images ',
-      price: '$0.00',
+      price: '$4.99',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/200+_Western_Background_Images.jpg',
       button: 'Buy',
       class: 'btn-buy',
-      link: 'https://temu.to/k/e8swifcla40'
+      link: 'https://boyleedalton.gumroad.com/l/jxnbz'
     }
     // Add more items with their links here
   ];
