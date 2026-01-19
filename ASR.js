@@ -2,7 +2,7 @@ call  const items = [
     {
       type: 'gear',
       title: 'Capcut + AI Green Screen Mastery Course COW 1.0',
-      price: '$7.99',
+      price: '$0.00',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Capcut_Ai_Green_Screen_Mastery.jpg',
       button: 'Get for Free',
       class: 'btn-free',
