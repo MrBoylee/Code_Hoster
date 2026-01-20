@@ -1,30 +1,21 @@
   const items = [
     {
-      type: 'style',
-      title: 'Western Cowboy Costume Set for Men',
-      price: '$14.27',
-      image: 'https://img.kwcdn.com/product/fancy/73727990-b439-406e-9fad-9f36d039da8a.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
-      button: 'Buy',
-      class: 'btn-buy',
-      link: 'https://temu.to/k/ekfo9w2zbdu'
-    },
-    {
-      type: 'style',
-      title: '1pc Unisex Beige Cowboy Hat',
-      price: '$4.77',
-      image: 'https://img.kwcdn.com/product/fancy/bbf039ed-f89d-4466-b995-d79cbeabefed.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
-      button: 'Buy',
-      class: 'btn-buy',
-      link: 'https://temu.to/k/ekr9sv006ng'
-    },
-    {
       type: 'gear',
-      title: 'Polyester 120g Photography For Live Video Sketch Background Cloth',
-      price: '$10.74',
-      image: 'https://img.kwcdn.com/product/fancy/670ce401-5c32-4188-a930-5e91b474ea14.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/avif',
+      title: 'Capcut + AI Green Screen Mastery Course COW 1.0',
+      price: '$0.0',
+      image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Capcut_Ai_Green_Screen_Mastery.jpg',
+      button: 'Get for Free',
+      class: 'btn-free',
+      link: 'https://boyleedalton.gumroad.com/l/wxzmmf'
+    },
+    {
+      type: 'style',
+      title: '200+ Western Background Images ',
+      price: '$0.00',
+      image: 'https://mrboylee.github.io/Mrboylee-Website-Images/200+_Western_Background_Images.jpg',
       button: 'Buy',
       class: 'btn-buy',
-      link: 'https://temu.to/k/ekr9sv006ng'
+      link: 'https://temu.to/k/e8swifcla40'
     }
     // Add more items with their links here
   ];
@@ -34,7 +25,6 @@
   let currentPage = 1;
   const itemsPerPage = 13;
   let currentFilter = 'all';
-
 
   function displayItems(page = 1) {
     storeGrid.innerHTML = '';
