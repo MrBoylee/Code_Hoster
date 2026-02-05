@@ -6,7 +6,7 @@
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Capcut_Ai_Green_Screen_Mastery.jpg',
       button: 'Get for Free',
       class: 'btn-free',
-      link: 'https://boyleedalton.gumroad.com/l/wxzmmf'
+      link: 'https:/boyleedalton.gumroad.com/l/rxpaf'
     },
     {
       type: 'style',
@@ -15,7 +15,7 @@
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/200+_Western_Background_Images.jpg',
       button: 'Buy',
       class: 'btn-buy',
-      link: 'https://temu.to/k/e8swifcla40'
+      link: 'https://boyleedalton.gumroad.com/l/jxnbz'
     }
     // Add more items with their links here
   ];
