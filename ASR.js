@@ -11,7 +11,7 @@
     {
       type: 'style',
       title: '200+ Western Background Images ',
-      price: '$4.99',
+      price: '$2.99',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/200+_Western_Background_Images.jpg',
       button: 'Buy',
       class: 'btn-buy',
