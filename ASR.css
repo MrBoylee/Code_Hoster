@@ -79,17 +79,9 @@
   cursor: pointer;
   transition: 0.3s;
 }
-/* The Visited link code fix */
-.store-item .btn,
-.store-item .btn:visited,
-.store-item .btn:active,
-.store-item .btn:focus {
-  color: white;
-}
-/* End */
 .btn-free {
   background-color: #00c853;
-  color: white;
+  color: white ! important;
 }
 
 .btn-buy {
@@ -114,7 +106,4 @@
 
 .pagination button:hover {
   background-color: #c0c0c0;
-}
-.store-item .btn:visited {
-  color: white;
 }
