@@ -115,3 +115,6 @@
 .pagination button:hover {
   background-color: #c0c0c0;
 }
+.store-item .btn:visited {
+  color: white;
+}
