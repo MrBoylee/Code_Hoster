@@ -2,10 +2,10 @@
     {
       type: 'gear',
       title: 'Capcut + AI Green Screen Mastery Course COW 1.0',
-      price: '$0.0',
+      price: '$3.99',
       image: 'https://mrboylee.github.io/Mrboylee-Website-Images/Cow 1.0 (3).jpg',
-      button: 'Get for Free',
-      class: 'btn-free',
+      button: 'Buy',
+      class: 'btn-buy',
       link: 'https://boyleedalton.gumroad.com/l/rxpaf'
     },
     {
