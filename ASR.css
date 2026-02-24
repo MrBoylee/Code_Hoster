@@ -81,7 +81,7 @@
 }
 .btn-free {
   background-color: #00c853;
-  color: white ! important;
+  color: white;
 }
 
 .btn-buy {
@@ -106,4 +106,9 @@
 
 .pagination button:hover {
   background-color: #c0c0c0;
+}
+.btn-buy,
+.btn-buy:visited {
+  background-color: #d50000 !important;
+  color: #ffffff !important;
 }
