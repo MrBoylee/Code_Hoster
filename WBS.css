@@ -127,3 +127,175 @@
   pointer-events: auto;
 
 }
+
+  .support-btn {
+
+    display: inline-block;
+
+    padding: 10px 20px;
+
+    background-color: #b30000;
+
+    border-radius: 8px;
+
+    box-shadow: 0 0 15px rgba(255, 0, 0, 0.4);
+
+    cursor: pointer;
+
+    transition: transform 0.3s ease-in-out;
+
+    animation: cowboyPulse 2.5s infinite ease-in-out;
+
+  }
+
+  .support-btn span {
+
+    font-size: 12px;
+
+    font-weight: bold;
+
+    color: white;
+
+    text-transform: uppercase;
+
+    display: block;
+
+    transform: scale(1); /* lock size of text */
+
+  }
+
+  .support-btn:hover {
+
+    background-color: #e60000;
+
+    box-shadow: 0 0 25px rgba(255, 26, 26, 0.9);
+
+    transform: scale(1.08);
+
+  }
+
+  @keyframes cowboyPulse {
+
+    0% { transform: scale(1); box-shadow: 0 0 10px rgba(255, 0, 0, 0.3); }
+
+    50% { transform: scale(1.05); box-shadow: 0 0 20px rgba(255, 0, 0, 0.7); }
+
+    100% { transform: scale(1); box-shadow: 0 0 10px rgba(255, 0, 0, 0.3); }
+
+  }
+
+    .town-section {
+
+      background-color: #fff;
+
+      padding: 25px 0;
+
+      overflow-x: hidden;
+
+    }
+
+    .towns-container {
+
+      display: flex;
+
+      gap: 20px;
+
+      overflow-x: auto;
+
+      scroll-snap-type: x mandatory;
+
+      scroll-padding-left: 20px;
+
+      -webkit-overflow-scrolling: touch;
+
+      padding: 10px 20px;
+
+    }
+
+    .towns-container::-webkit-scrollbar {
+
+      display: none;
+
+    }
+
+    .towns-container {
+
+      -ms-overflow-style: none;
+
+      scrollbar-width: none;
+
+    }
+
+    .town-card-link {
+
+      flex: 0 0 auto;
+
+      text-decoration: none;
+
+      color: inherit;
+
+    }
+
+    .town-card {
+
+      width: 250px;
+
+      background-color: #eee;
+
+      border-radius: 16px;
+
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+
+      scroll-snap-align: start;
+
+      overflow: hidden;
+
+      transition: transform 0.2s ease;
+
+    }
+
+    .town-card:hover {
+
+      transform: scale(1.03);
+
+    }
+
+    .town-image {
+
+      width: 100%;
+
+      height: 150px;
+
+      object-fit: cover;
+
+      display: block;
+
+      pointer-events: none; /* 👈 prevents click effect on image */
+
+    }
+
+    .town-text {
+
+      padding: 15px;
+
+    }
+
+    .town-name {
+
+      font-size: 18px;
+
+      font-weight: bold;
+
+      color: #111;
+
+      margin-bottom: 6px;
+
+    }
+
+    .town-desc {
+
+      font-size: 14px;
+
+      color: #555;
+
+    }
