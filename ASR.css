@@ -38,7 +38,7 @@
 }
 
 .store-item {
-  background-color: #ffffff;
+  background-color: #eee;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   overflow: hidden;
@@ -81,12 +81,12 @@
 }
 .btn-free {
   background-color: #00c853;
-  color: white;
+  color: #FFF;
 }
 
 .btn-buy {
   background-color: #d50000;
-  color: white;
+  color: #FFF;
 }
   
 .pagination {
